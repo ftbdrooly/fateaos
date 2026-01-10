@@ -7,6 +7,10 @@ Genre: Dark Fantasy, Cosmic Horror, Psychological Tragedy
 Rating: M+ (Body horror, existential dread, explicit language, mental collapse) 
 
 Stories do not end when they are written. They persist, deform, and demand witnesses.
+------------------------------------------------------------------------------------------------------------------------------------------
+This game is, obviously, a work in progress. The code is rushed, the assets are unclean, the words - though bulky enough right now - don't really push anything quite yet.
+
+Would you like to work your magic and help with that? Comment on the download, and we can connect!
 
 You can install the PC version here:
 https://drive.google.com/file/d/1E-1ZcLaEiw704O6BuvlTOt35b-CwFxOl/view?usp=sharing
@@ -14,6 +18,7 @@ https://drive.google.com/file/d/1E-1ZcLaEiw704O6BuvlTOt35b-CwFxOl/view?usp=shari
 You can install the MacOSX version here:
 https://drive.google.com/file/d/1Rvd2xQ0-mEwgLfY-eR776N21lS0ZS1Dl/view?usp=sharing                                                                       
                           
+------------------------------------------------------------------------------------------------------------------------------------------
 
 This game is a fan work and is not affiliated with Type-Moon or any of its official releases.
                       All rights to the characters and settings belong to their respective owners.
