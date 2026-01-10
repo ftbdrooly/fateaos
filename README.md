@@ -5,8 +5,11 @@ Rating: M+ (Body horror, existential dread, explicit language, mental collapse)
 
 Stories do not end when they are written. They persist, deform, and demand witnesses.
 
-You can install the MacOSX version here:                                                                      You can install the PC version here:
-https://drive.google.com/file/d/1Rvd2xQ0-mEwgLfY-eR776N21lS0ZS1Dl/view?usp=sharing                            https://drive.google.com/file/d/1E-1ZcLaEiw704O6BuvlTOt35b-CwFxOl/view?usp=sharing
+You can install the PC version here:
+https://drive.google.com/file/d/1E-1ZcLaEiw704O6BuvlTOt35b-CwFxOl/view?usp=sharing
+
+You can install the MacOSX version here:                                                                      
+https://drive.google.com/file/d/1Rvd2xQ0-mEwgLfY-eR776N21lS0ZS1Dl/view?usp=sharing                            
 
 This game is a fan work and is not affiliated with Type-Moon or any of its official releases.
                       All rights to the characters and settings belong to their respective owners.
