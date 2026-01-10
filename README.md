@@ -13,10 +13,10 @@ This game is, obviously, a work in progress. The code is rushed, the assets are 
 Would you like to work your magic and help with that? Comment on the download, and we can connect!
 
 You can install the PC version here:
-https://drive.google.com/file/d/1E-1ZcLaEiw704O6BuvlTOt35b-CwFxOl/view?usp=sharing
+https://drive.google.com/file/d/1Rvd2xQ0-mEwgLfY-eR776N21lS0ZS1Dl/view?usp=sharing
 
 You can install the MacOSX version here:
-https://drive.google.com/file/d/1Rvd2xQ0-mEwgLfY-eR776N21lS0ZS1Dl/view?usp=sharing                                                                       
+https://drive.google.com/file/d/1E-1ZcLaEiw704O6BuvlTOt35b-CwFxOl/view?usp=sharing
                           
 ------------------------------------------------------------------------------------------------------------------------------------------
 
