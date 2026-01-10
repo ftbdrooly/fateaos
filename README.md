@@ -1,4 +1,5 @@
 
+![fatelogo](https://github.com/user-attachments/assets/6f4f522f-ef29-4348-80a5-29524d105d02)
 
 # Fate / Annulment of Sorrow (Fate/AoS)
 Fate / Annulment of Sorrow (Fate/AoS) 
