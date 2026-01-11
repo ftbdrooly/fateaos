@@ -22,7 +22,7 @@ This game is, obviously, a work in progress. The code is rushed, the assets are 
 
 Would you like to work your magic and help with that? Comment on the download, and we can connect!
 
-You can play the 1.2.9Build easily on itch.io!
+You can play the v1.5.1Build easily on itch.io!
 https://findthebalance.itch.io/faos
                           
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,15 +39,21 @@ This game is a fan work and is not affiliated with Type-Moon or any of its offic
                       
                       Updates will be posted here, on GitHub.
 
-1/10/2026
-FTB: 3 days. Locked in and lost my f*cking marbles.
+DevDiscord: https://discord.gg/5yTVKVua
 
-Honestly...
+---------------------------------
+FTB NOTES: 
 
-Would do it again.
+- 1/10/2026 
 
-Yeah.
+ 3 days. Locked in and lost my f*cking marbles. Honestly... Would do it again. Yeah.
 
-Might KEEP doing it.
+Might KEEP doing it 👁️👁️
+
+- 1/11/2026
+
+4 days 👁️👁️
+
+ enjoy v1.5.1. or don't, and leave a scathing review, idk .bye
 
 
